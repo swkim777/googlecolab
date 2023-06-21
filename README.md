@@ -1,2 +1,2 @@
 # googlecolab
-google colab
+google colab 사용하기 
